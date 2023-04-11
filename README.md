@@ -1,2 +1,2 @@
 # COA
-computer organization and artichecture 
+computer organization and architecture

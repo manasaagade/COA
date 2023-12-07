@@ -1,3 +1,5 @@
+#Program to print the vowel and consonats count in the given array
+
 include 'emu8086.inc'
 lea dx,str
 mov ah,09h

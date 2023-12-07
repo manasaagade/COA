@@ -1,3 +1,5 @@
+#Program to find armstrong numbers in the given range
+
 include 'emu8086.inc'
 print 'Enter the First Interval:'
 call scan_num

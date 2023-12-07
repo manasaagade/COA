@@ -1,3 +1,5 @@
+# Program to find a number is armstrong
+
 include 'emu8086.inc'
 print 'enter a number : '
 call scan_num           
